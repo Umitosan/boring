@@ -8,7 +8,7 @@ Dominic Brown and Trevor Fast
 
 ## Description
 
-We
+We created a basic website about the amazing new sport of underwater Tour De France. It includes a single image, p, h1, h2, and css rules to display them in the browser.
 
 ## Setup/Installation Requirements
 
