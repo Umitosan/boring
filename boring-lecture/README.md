@@ -1,4 +1,4 @@
-# Boring lecture website
+# Boring lecture website v2
 
 #### Epicodus, Wednesday Day 3, Boring-lecture exercise, 03/15/17
 
