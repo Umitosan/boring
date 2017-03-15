@@ -1,4 +1,4 @@
-# Cupcake's website
+# Boring lecture website
 
 #### Epicodus, Wednesday Day 3, Boring-lecture exercise, 03/15/17
 
