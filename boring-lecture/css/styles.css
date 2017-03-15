@@ -1,12 +1,25 @@
 
 h2.intro {
+  /*text-align: center;*/
+  font-family: monospace, serif;
+  color: gray;
+  height: 25px;
 
 }
 
 p.intro {
 
+  font-family:cursive;
 }
 
 img.intro {
-
+  float: right;
+  margin: 0 0 10px 10px;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 10%;
+  border-color: gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
