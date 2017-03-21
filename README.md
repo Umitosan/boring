@@ -4,7 +4,7 @@
 
 #### Authors
 
-Dominic Brown and Trevor Fast
+Dominic Brown and Trevor Fast and Ken Rutan
 
 ## Description
 
@@ -22,14 +22,17 @@ There are no bugs in this file as of now.
 
 Dominic's email: yeahdom@gmail.com
 Trevor's email: TrevorRFast@gmail.com
+Ken's email: kenr16@gmail.com
 
 ## Technologies Used
 
 HTML
 CSS
+jQuery
+git
 
 ### License
 
 OpenSource
 
-Copyright (c) 2016 Trevor Fast and Dominic Brown
+Copyright (c) 2016 Ken Rutan, Dominic Brown, Trevor Fast

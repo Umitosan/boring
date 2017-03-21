@@ -1,0 +1,61 @@
+
+.intro {
+  font-family: cursive, monospace;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+img {
+  float: right;
+  margin: 0 0 10px 10px;
+  border-style: solid;
+  border-width: thick;
+  border-radius: 30px;
+  border-color: gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.black-background {
+  background-color: #000000;
+}
+
+.white-background {
+  background-color: #FFFFFF;
+}
+
+.blacktext {
+  color: black;
+}
+
+.whitetext {
+  color: white;
+}
+
+
+
+.p_border1 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  border-radius: 40px;
+  width: 50%;
+}
+
+.p_border2 {
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 5px;
+  border-radius: 40px;
+  width: 50%;
+}
+
+.p_borderOn {
+  border-style: solid;
+  border-color: blue;
+  border-width: 5px;
+  border-radius: 40px;
+}
